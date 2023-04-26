@@ -4,7 +4,7 @@ using UnityEngine;
 using UnityEditor;
 using UnityEditor.IMGUI.Controls;
 
-namespace BobboNet.Editor.SearchWindow
+namespace BobboNet.Editor
 {
     public abstract class SearchWindowContent : PopupWindowContent
     {
